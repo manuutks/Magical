@@ -1,0 +1,135 @@
+[{
+  "numero": 0,
+  "nome": "O Louco",
+  "imagem": "public/images/0-louco.jpg",
+  "significado": "Novos começos, espontaneidade, fé no universo. Representa a liberdade e o início de uma jornada sem medo.",
+  "arcano": "maior"
+}, {
+  "numero": 1,
+  "nome": "O Mago",
+  "imagem": "public/images/1-mago.jpg",
+  "significado": "Manifestação, poder pessoal, recursos disponíveis. Simboliza o domínio das habilidades e a capacidade de transformar ideias em realidade.",
+  "arcano": "maior"
+}, {
+  "numero": 2,
+  "nome": "A Sacerdotisa",
+  "imagem": "public/images/2-sacerdotisa.jpg",
+  "significado": "Intuição, mistério, sabedoria interior. Representa o conhecimento oculto e a conexão com o subconsciente.",
+  "arcano": "maior"
+}, {
+  "numero": 3,
+  "nome": "A Imperatriz",
+  "imagem": "public/images/3-imperatriz.jpg",
+  "significado": "Abundância, criatividade, maternidade. Simboliza a fertilidade, o crescimento e a conexão com a natureza.",
+  "arcano": "maior"
+}, {
+  "numero": 4,
+  "nome": "O Imperador",
+  "imagem": "public/images/4-imperador.jpg",
+  "significado": "Estrutura, liderança, autoridade. Representa a ordem, a disciplina e o estabelecimento de fundações sólidas.",
+  "arcano": "maior"
+}, {
+  "numero": 5,
+  "nome": "O Hierofante",
+  "imagem": "public/images/5-hierofante.jpg",
+  "significado": "Tradição, ensino, orientação espiritual. Simboliza as instituições, os sistemas de crença e a sabedoria dos mestres.",
+  "arcano": "maior"
+}, {
+  "numero": 6,
+  "nome": "Os Amantes",
+  "imagem": "public/images/6-amantes.jpg",
+  "significado": "Escolhas, relacionamentos, harmonia. Representa as decisões importantes, a união e o equilíbrio entre opostos.",
+  "arcano": "maior"
+}, {
+  "numero": 7,
+  "nome": "O Carro",
+  "imagem": "public/images/7-carro.jpg",
+  "significado": "Vontade, conquista, determinação. Simboliza o movimento direcionado, a superação de obstáculos e a vitória.",
+  "arcano": "maior"
+}, {
+  "numero": 8,
+  "nome": "Força",
+  "imagem": "public/images/8-forca.jpg",
+  "significado": "Coragem, controle interior, compaixão. Representa a força gentil, o domínio dos instintos através da paciência.",
+  "arcano": "maior"
+}, {
+  "numero": 9,
+  "nome": "O Eremita",
+  "imagem": "public/images/9-eremita.jpg",
+  "significado": "Introspecção, busca interior, sabedoria. Simboliza a solidão necessária para o autoconhecimento e a iluminação.",
+  "arcano": "maior"
+}, {
+  "numero": 10,
+  "nome": "Roda da Fortuna",
+  "imagem": "public/images/10-roda.jpg",
+  "significado": "Ciclos, destino, mudanças. Representa as reviravoltas da vida, o karma e a natureza cíclica da existência.",
+  "arcano": "maior"
+}, {
+  "numero": 11,
+  "nome": "Justiça",
+  "imagem": "public/images/11-justica.jpg",
+  "significado": "Equilíbrio, verdade, responsabilidade. Simboliza as consequências das ações e a busca pela imparcialidade.",
+  "arcano": "maior"
+}, {
+  "numero": 12,
+  "nome": "O Enforcado",
+  "imagem": "public/images/12-enforcado.jpg",
+  "significado": "Sacrifício, nova perspectiva, rendição. Representa a pausa necessária e a mudança de ponto de vista.",
+  "arcano": "maior"
+}, {
+  "numero": 13,
+  "nome": "A Morte",
+  "imagem": "public/images/13-morte.jpg",
+  "significado": "Transformação, fim de ciclos, renovação. Simboliza as mudanças profundas e o renascimento após o término.",
+  "arcano": "maior"
+}, {
+  "numero": 14,
+  "nome": "Temperança",
+  "imagem": "public/images/14-temperanca.jpg",
+  "significado": "Equilíbrio, moderação, paciência. Representa a alquimia interior e a harmonização de elementos opostos.",
+  "arcano": "maior"
+}, {
+  "numero": 15,
+  "nome": "O Diabo",
+  "imagem": "public/images/15-diabo.jpg",
+  "significado": "Apego, sombras, limitações. Simboliza os vícios, as amarras e as ilusões que nos mantêm prisioneiros.",
+  "arcano": "maior"
+}, {
+  "numero": 16,
+  "nome": "A Torre",
+  "imagem": "public/images/16-torre.jpg",
+  "significado": "Ruptura, revelação, mudança súbita. Representa o colapso de estruturas falsas e a libertação através da destruição.",
+  "arcano": "maior"
+}, {
+  "numero": 17,
+  "nome": "A Estrela",
+  "imagem": "public/images/17-estrela.jpg",
+  "significado": "Esperança, cura, inspiração. Simboliza a renovação da fé, a orientação divina e a serenidade após a tempestade.",
+  "arcano": "maior"
+}, {
+  "numero": 18,
+  "nome": "A Lua",
+  "imagem": "public/images/18-lua.jpg",
+  "significado": "Ilusões, intuição, subconsciente. Representa os medos ocultos, os sonhos e as profundezas da psique.",
+  "arcano": "maior"
+}, {
+  "numero": 19,
+  "nome": "O Sol",
+  "imagem": "public/images/19-sol.jpg",
+  "significado": "Sucesso, alegria, vitalidade. Simboliza a claridade, o otimismo e a realização plena.",
+  "arcano": "maior"
+}, {
+  "numero": 20,
+  "nome": "O Julgamento",
+  "imagem": "public/images/20-julgamento.jpg",
+  "significado": "Renovação, despertar, julgamento final. Representa o chamado interior, a redenção e o renascimento espiritual.",
+  "arcano": "maior"
+}, {
+  "numero": 21,
+  "nome": "O Mundo",
+  "imagem": "public/images/21-mundo.jpg",
+  "significado": "Conclusão, realização, integração. Simboliza a completude, o sucesso duradouro e o fim de um grande ciclo.",
+  "arcano": "maior"
+}]
+
+
